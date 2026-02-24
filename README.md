@@ -23,19 +23,35 @@ Unsupervised Learning: Applied and compared K-Means and Hierarchical Clustering 
 Model Evaluation: Used the Elbow Method and Silhouette Analysis to justify the selection of 4 distinct, cohesive clusters.
 
 The Market Segments
-Cluster 0 (Luxury Listings): High-capacity "Entire Home" properties with premium price points.
+Cluster 0: Luxury Listings
 
-Cluster 1 (Budget/Solo Travel): Affordable private rooms focused on value and high occupancy.
+Profile: High-capacity "Entire Home" properties with the highest average price points.
 
-Cluster 2 (Prime Location): Properties with the highest proximity to the city center and high availability.
+Strategy: Focus on "Luxury Bundles" including full kitchens and premium linens.
 
-Cluster 3 (Outer-Borough Value): Listings that trade location for lower costs and a quieter residential feel.
+Cluster 1: Budget & Solo Travel
+
+Profile: Affordable private rooms focused on value and high occupancy.
+
+Strategy: High-volume bookings; emphasize essentials like high-speed Wi-Fi and self-check-in.
+
+Cluster 2: Prime Location
+
+Profile: Properties with the highest proximity to the city center (Manhattan) and high availability.
+
+Strategy: Dynamic pricing based on local events; highlight proximity to transit and business districts.
+
+Cluster 3: Outer-Borough Value
+
+Profile: Listings that trade location for lower costs and a quieter residential feel.
+
+Strategy: Target long-term guests; focus on "home-away-from-home" comforts like laundry and parking.
 
 Actionable Business Insights
 This analysis provides a strategic framework for:
 
-Dynamic Pricing: Implementing cluster-specific rate adjustments (e.g., premium surge pricing for Cluster 0 vs. long-stay discounts for Cluster 1).
+Dynamic Pricing: Implementing cluster-specific rate adjustments (e.g., premium surge pricing for Luxury vs. long-stay discounts for Budget).
 
-Amenity Bundling: Prioritizing high-end features like full kitchens for luxury segments and essentials like high-speed Wi-Fi for solo travelers.
+Amenity Bundling: Identifying which features matter most to specific guest purposes (e.g., workspace setups for Prime Location).
 
 Targeted Marketing: Developing tailored messaging that resonates with the specific demographic and travel purpose of each segment.
